@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="522" height="522" viewBox="0 0 522 522">
+  <defs>
+    <filter id="Subtraction_1" x="0" y="0" width="522" height="522" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#59d083" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1284" data-name="Group 1284" transform="translate(-142 -236)">
+    <g transform="matrix(1, 0, 0, 1, 142, 236)" filter="url(#Subtraction_1)">
+      <path id="Subtraction_1-2" data-name="Subtraction 1" d="M216,432a217.584,217.584,0,0,1-43.531-4.388,214.822,214.822,0,0,1-77.237-32.5,216.613,216.613,0,0,1-78.257-95.033A214.88,214.88,0,0,1,4.389,259.533a218.092,218.092,0,0,1,0-87.063,214.838,214.838,0,0,1,32.5-77.237,216.624,216.624,0,0,1,95.034-78.258A214.9,214.9,0,0,1,172.469,4.388a218.1,218.1,0,0,1,87.063,0,214.826,214.826,0,0,1,77.236,32.5,216.651,216.651,0,0,1,78.258,95.034,214.953,214.953,0,0,1,12.585,40.546,218.044,218.044,0,0,1,0,87.063,214.767,214.767,0,0,1-32.5,77.236,216.619,216.619,0,0,1-95.033,78.258,214.941,214.941,0,0,1-40.545,12.586A217.605,217.605,0,0,1,216,432Zm0-376.407C127.553,55.593,55.6,127.552,55.6,216S127.553,376.407,216,376.407,376.4,304.449,376.4,216,304.447,55.593,216,55.593Z" transform="translate(45 42)" fill="#59d083"/>
+    </g>
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="117.5" cy="117.5" r="117.5" transform="translate(286 376)" fill="#fff"/>
+    <text id="_100_" data-name="100%" transform="translate(338 519)" fill="#59d083" font-size="54" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">100%</tspan></text>
+  </g>
+</svg>

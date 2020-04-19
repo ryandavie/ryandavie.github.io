@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158" height="158" viewBox="0 0 158 158">
+  <defs>
+    <filter id="Rectangle_491" x="0" y="0" width="158" height="158" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1280" data-name="Group 1280" transform="translate(-652 -4323)">
+    <g transform="matrix(1, 0, 0, 1, 652, 4323)" filter="url(#Rectangle_491)">
+      <rect id="Rectangle_491-2" data-name="Rectangle 491" width="98" height="98" rx="49" transform="translate(30 27)" fill="#fff"/>
+    </g>
+    <g id="Group_593" data-name="Group 593" transform="translate(712.033 4379.906)">
+      <g id="Group_590" data-name="Group 590" transform="translate(0.526 11.115)">
+        <path id="Path_567" data-name="Path 567" d="M1652.065,2539.883h6.85a.594.594,0,0,0,.594-.6V2516.3a.594.594,0,0,0-.594-.593h-6.85a.593.593,0,0,0-.593.593v22.991A.594.594,0,0,0,1652.065,2539.883Zm36.429-13.866v13.271a.594.594,0,0,1-.594.6h-6.851a.594.594,0,0,1-.594-.6v-12.341c0-3.25-1.161-5.468-4.071-5.468a4.4,4.4,0,0,0-4.125,2.939,5.551,5.551,0,0,0-.265,1.961v12.909a.594.594,0,0,1-.6.594h-6.85a.591.591,0,0,1-.593-.594c.016-3.286.084-19.235.015-22.984a.59.59,0,0,1,.593-.6h6.836a.593.593,0,0,1,.594.593v2.833c-.016.026-.04.053-.053.078h.053v-.078a7.98,7.98,0,0,1,7.245-3.994C1684.53,2515.135,1688.495,2518.59,1688.495,2526.016Z" transform="translate(-1651.473 -2515.135)" fill="#59d083"/>
+      </g>
+      <g id="Group_591" data-name="Group 591" transform="translate(0 0)">
+        <path id="Path_568" data-name="Path 568" d="M1658.523,2486.536a4.3,4.3,0,1,1-4.3-4.3A4.3,4.3,0,0,1,1658.523,2486.536Z" transform="translate(-1649.917 -2482.232)" fill="#59d083"/>
+      </g>
+    </g>
+    <g id="Rectangle_492" data-name="Rectangle 492" transform="translate(691 4359)" fill="none" stroke="#59d083" stroke-width="1">
+      <rect width="80" height="80" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="79" height="79" rx="39.5" fill="none"/>
+    </g>
+  </g>
+</svg>
