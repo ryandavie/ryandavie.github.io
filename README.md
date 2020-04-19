@@ -1,1 +1,0 @@
-# ryandavie.github.io
